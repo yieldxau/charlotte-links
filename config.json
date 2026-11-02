@@ -1,0 +1,10 @@
+{
+  "destination": "https://quantoanalysis.com",
+  "destinationName": "QuantoAnalysis",
+  "title": "QuantoAnalysis",
+  "description": "Visit QuantoAnalysis — open the website.",
+  "thumbnail": "",
+  "thumbnailAlt": "QuantoAnalysis",
+  "publicUrl": "https://charlotte-links.vercel.app",
+  "redirectDelayMs": 1000
+}
